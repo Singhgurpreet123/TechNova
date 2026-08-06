@@ -1,0 +1,6 @@
+{
+  "name": "TechNova Solutions",
+  "description": "Modern, responsive corporate website for TechNova Solutions IT services, AI software, and cloud computing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
